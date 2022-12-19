@@ -1,0 +1,15 @@
+C:\g_b_test\Task9\66\bin\Debug\net7.0\66.exe
+C:\g_b_test\Task9\66\bin\Debug\net7.0\66.deps.json
+C:\g_b_test\Task9\66\bin\Debug\net7.0\66.runtimeconfig.json
+C:\g_b_test\Task9\66\bin\Debug\net7.0\66.dll
+C:\g_b_test\Task9\66\bin\Debug\net7.0\66.pdb
+C:\g_b_test\Task9\66\obj\Debug\net7.0\66.csproj.AssemblyReference.cache
+C:\g_b_test\Task9\66\obj\Debug\net7.0\66.GeneratedMSBuildEditorConfig.editorconfig
+C:\g_b_test\Task9\66\obj\Debug\net7.0\66.AssemblyInfoInputs.cache
+C:\g_b_test\Task9\66\obj\Debug\net7.0\66.AssemblyInfo.cs
+C:\g_b_test\Task9\66\obj\Debug\net7.0\66.csproj.CoreCompileInputs.cache
+C:\g_b_test\Task9\66\obj\Debug\net7.0\66.dll
+C:\g_b_test\Task9\66\obj\Debug\net7.0\refint\66.dll
+C:\g_b_test\Task9\66\obj\Debug\net7.0\66.pdb
+C:\g_b_test\Task9\66\obj\Debug\net7.0\66.genruntimeconfig.cache
+C:\g_b_test\Task9\66\obj\Debug\net7.0\ref\66.dll
