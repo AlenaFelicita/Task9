@@ -1,0 +1,15 @@
+C:\g_b_test\Task9\68\obj\Debug\net7.0\68.csproj.AssemblyReference.cache
+C:\g_b_test\Task9\68\obj\Debug\net7.0\68.GeneratedMSBuildEditorConfig.editorconfig
+C:\g_b_test\Task9\68\obj\Debug\net7.0\68.AssemblyInfoInputs.cache
+C:\g_b_test\Task9\68\obj\Debug\net7.0\68.AssemblyInfo.cs
+C:\g_b_test\Task9\68\obj\Debug\net7.0\68.csproj.CoreCompileInputs.cache
+C:\g_b_test\Task9\68\bin\Debug\net7.0\68.exe
+C:\g_b_test\Task9\68\bin\Debug\net7.0\68.deps.json
+C:\g_b_test\Task9\68\bin\Debug\net7.0\68.runtimeconfig.json
+C:\g_b_test\Task9\68\bin\Debug\net7.0\68.dll
+C:\g_b_test\Task9\68\bin\Debug\net7.0\68.pdb
+C:\g_b_test\Task9\68\obj\Debug\net7.0\68.dll
+C:\g_b_test\Task9\68\obj\Debug\net7.0\refint\68.dll
+C:\g_b_test\Task9\68\obj\Debug\net7.0\68.pdb
+C:\g_b_test\Task9\68\obj\Debug\net7.0\68.genruntimeconfig.cache
+C:\g_b_test\Task9\68\obj\Debug\net7.0\ref\68.dll
